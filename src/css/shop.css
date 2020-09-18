@@ -1,0 +1,59 @@
+.shop{
+    display:flex;
+    justify-content: space-around;
+    width:100%;
+    flex-wrap:wrap;
+    padding:.07rem;
+}
+.link{
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 2.93rem;
+}
+.phones{
+    width: 49%;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 8px #ccc;
+    margin: 3px 0;
+    padding: 2px;
+}
+.pics{
+    width:100%;
+    padding:.07rem;
+    
+}
+h3{
+    font-size:.14rem;
+    margin:.05rem 0;
+    line-height:1;
+}
+.p1{
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #8f8f94;
+}
+.describe{
+    background-color: #eee;
+    padding:.05rem;
+}
+.price{
+    color: red;
+    font-weight: 700;
+    font-size: 16px;
+}
+.oldPrice{
+    text-decoration: line-through;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.p2{
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin-top:.2rem;
+    height:.2rem;
+    color:#8F8F94;
+}

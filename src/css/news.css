@@ -1,0 +1,15 @@
+.items{
+    width:100%;
+    display:flex;
+    padding:.04rem;
+    margin:.1rem;
+    border-bottom:solid 1px #ECECED;
+}
+
+.img{
+    width:.42rem;
+    height:.42rem;
+}
+h1{
+    font-size:.14rem;
+}
